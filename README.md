@@ -1,2 +1,2 @@
 # basehtml
-Les bases de l'HTML
+Les bases de l'html
